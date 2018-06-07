@@ -1,0 +1,5 @@
+Sap localhost 17740
+Sapphire2.uhcl.edu 129.15.00.02 546585
+Sapphire3.uhcl.edu 129.15.00.03 546586
+Sapphire4.uhcl.edu 129.15.00.04 546587
+Sapphire5.uhcl.edu 129.15.00.05 546588 
